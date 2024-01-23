@@ -6,7 +6,7 @@ This repository had been opened to translate the website into different language
 2. Clone your forked repository.
 3. Create a new branch.
 4. Go into the `translations` directory and create a new directory with the country code of the language you want to translate into. For example, if you want to translate into German, you have to create a new directory called `de` or use the existing one.
-5. Copy the `index.json` file from the `en` directory into the directory you just created.
+5. Copy the `index.json` file from the `en` directory into the directory you just created or edit the existing one.
 6. Translate the values of the `index.json` file.
 7. Commit your changes.
 8. Push your changes to your forked repository.
