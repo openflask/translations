@@ -26,6 +26,7 @@ This repository had been opened to translate the website into different language
 | Russian  | `ru`         | ✔️      |
 | Turkish  | `tr`         | ✔️      |
 | Chinese  | `zh`         | ❌      |
+| Arabic   | `ar`         | ❌      |
 more languages will be added soon...
 
 
