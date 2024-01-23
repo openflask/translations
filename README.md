@@ -3,13 +3,13 @@ This repository had been opened to translate the website into different language
 
 ## ✨ Contribution Guide
 1. Fork this repository.
-2. Clone your forked repository.
-3. Create a new branch.
+2. Clone your forked repository on your local machine.
+3. Create a new branch. The name of the branch should be the country code of the language you want to translate into. For example, if you want to translate into German, the name of the branch should be `de`. Example: `git checkout -b de`.
 4. Go into the `translations` directory and create a new directory with the country code of the language you want to translate into. For example, if you want to translate into German, you have to create a new directory called `de` or use the existing one.
 5. Copy the `index.json` file from the `en` directory into the directory you just created or edit the existing one.
 6. Translate the values of the `index.json` file.
-7. Commit your changes.
-8. Push your changes to your forked repository.
+7. Commit your changes. Example: `git commit -m "Added German translation"`.
+8. Push your changes to your forked repository. Example: `git push origin de`.
 9. Create a pull request.
 
 ## 📚 Languages
