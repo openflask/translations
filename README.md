@@ -1,5 +1,5 @@
 # 🛰️ Website Translations
-This repository had been opened to translate the website into different languages. If you want to contribute, please read the [contribution guide](https://github.com/flaskyi/translations#contribution-guide) first.
+This repository had been opened to translate the website into different languages. If you want to contribute, please read the [contribution guide](https://github.com/flaskyi/translations?tab=readme-ov-file#-contribution-guide) first.
 
 ## ✨ Contribution Guide
 1. Fork this repository.
