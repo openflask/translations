@@ -1,0 +1,79 @@
+{
+  "navbar": {
+    "items": {
+      "home": "Accueil",
+      "models": "Modèles",
+      "about": "À propos de nous",
+      "blog": "Blog"
+    }
+  },
+  "indexPage": {
+    "description": "L'entreprise d'IA qui fait les choses correctement",
+    "modelsSection": {
+      "title": "Modèles",
+      "description": "Notre modèle principal est Flaskyi, un modèle texte-image qui peut générer des images à partir de texte. À l'avenir, nous construirons et formerons plus de modèles comme Flaskyi-Chat.",
+      "models": {
+        "flaskyi": {
+          "title": "Flaskyi",
+          "description": "Flaskyi est un modèle texte-image qui peut générer des images à partir de texte."
+        },
+        "flaskyiChat": {
+          "title": "Flaskyi-Chat",
+          "description": "Flaskyi-Chat est un modèle de chatbot avec lequel vous pouvez discuter."
+        }
+      }
+    },
+    "aboutSection": {
+      "title": "À propos de nous",
+      "description": "Nous sommes une équipe d'ingénieurs en IA qui construit et forme des modèles d'IA. Notre modèle principal est Flaskyi, un modèle texte-image qui peut générer des images à partir de texte. À l'avenir, nous construirons et formerons plus de modèles comme Flaskyi-Chat.",
+      "dates": {
+        "2023": "Nous avons été fondés en 2023.",
+        "2024": "Nous lancerons Flaskyi, un modèle texte-image qui peut générer des images à partir de texte.",
+        "2025": "Nous lancerons Flaskyi-Chat, un modèle de chatbot avec lequel vous pouvez discuter.",
+        "2026": "Nous construirons et formerons plus de modèles comme Flaskyi-Chat et Flaskyi."
+      }
+    }
+  },
+  "blogPage": {
+    "title": "Blog",
+    "description": "Ici, nous écrivons sur toutes les nouvelles mises à jour et nouvelles concernant nos modèles d'IA et notre entreprise.",
+    "alert": {
+      "note": "Note",
+      "text": "Les articles de blog sont uniquement disponibles en",
+      "language": "Anglais"
+    }
+  },
+  "footer": {
+    "description": "L'entreprise d'IA qui fait les choses correctement",
+    "links": {
+      "company": {
+        "title": "Entreprise",
+        "items": {
+          "about": "À propos",
+          "blog": "Blog",
+          "models": "Modèles"
+        }
+      },
+      "legal": {
+        "title": "Juridique",
+        "items": {
+          "privacy": "Confidentialité",
+          "terms": "Conditions"
+        }
+      }
+    },
+    "rights": "Tous droits réservés."
+  },
+  "buttons": {
+    "learnMore": "En savoir plus",
+    "signUp": "S'inscrire",
+    "signIn": "Se connecter"
+  },
+  "labels": {
+    "commingSoon": "Bientôt disponible",
+    "available": "Disponible"
+  },
+  "translationsMenu": {
+    "search": "Recherche"
+  }
+}

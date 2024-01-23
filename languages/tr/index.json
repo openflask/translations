@@ -1,0 +1,79 @@
+{
+  "navbar": {
+    "items": {
+      "home": "Ana Sayfa",
+      "models": "Modeller",
+      "about": "Hakkımızda",
+      "blog": "Blog"
+    }
+  },
+  "indexPage": {
+    "description": "İşini doğru yapan AI şirketi",
+    "modelsSection": {
+      "title": "Modeller",
+      "description": "Ana modelimiz Flaskyi, metinden resim oluşturabilen bir metin-resim modelidir. Gelecekte, Flaskyi-Chat gibi daha fazla model oluşturacak ve eğiteceğiz.",
+      "models": {
+        "flaskyi": {
+          "title": "Flaskyi",
+          "description": "Flaskyi, metinden resim oluşturabilen bir metin-resim modelidir."
+        },
+        "flaskyiChat": {
+          "title": "Flaskyi-Chat",
+          "description": "Flaskyi-Chat, sohbet edebileceğiniz bir sohbet botu modelidir."
+        }
+      }
+    },
+    "aboutSection": {
+      "title": "Hakkımızda",
+      "description": "AI modelleri oluşturan ve eğiten bir AI mühendisleri ekibiyiz. Ana modelimiz Flaskyi, metinden resim oluşturabilen bir metin-resim modelidir. Gelecekte, Flaskyi-Chat gibi daha fazla model oluşturacak ve eğiteceğiz.",
+      "dates": {
+        "2023": "2023 yılında kurulduk.",
+        "2024": "Metinden resim oluşturabilen bir metin-resim modeli olan Flaskyi'yi piyasaya süreceğiz.",
+        "2025": "Sohbet edebileceğiniz bir sohbet botu modeli olan Flaskyi-Chat'i piyasaya süreceğiz.",
+        "2026": "Flaskyi-Chat ve Flaskyi gibi daha fazla model oluşturacak ve eğiteceğiz."
+      }
+    }
+  },
+  "blogPage": {
+    "title": "Blog",
+    "description": "Burada, AI modellerimiz ve şirketimizle ilgili tüm yeni güncellemeler ve haberler hakkında yazıyoruz.",
+    "alert": {
+      "note": "Not",
+      "text": "Blog gönderileri yalnızca",
+      "language": "İngilizce"
+    }
+  },
+  "footer": {
+    "description": "İşini doğru yapan AI şirketi",
+    "links": {
+      "company": {
+        "title": "Şirket",
+        "items": {
+          "about": "Hakkında",
+          "blog": "Blog",
+          "models": "Modeller"
+        }
+      },
+      "legal": {
+        "title": "Yasal",
+        "items": {
+          "privacy": "Gizlilik",
+          "terms": "Şartlar"
+        }
+      }
+    },
+    "rights": "Tüm hakları saklıdır."
+  },
+  "buttons": {
+    "learnMore": "Daha fazla bilgi",
+    "signUp": "Kaydol",
+    "signIn": "Giriş yap"
+  },
+  "labels": {
+    "commingSoon": "Yakında",
+    "available": "Mevcut"
+  },
+  "translationsMenu": {
+    "search": "Ara"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "navbar": {
+    "items": {
+      "home": "Strona główna",
+      "models": "Modele",
+      "about": "O nas",
+      "blog": "Blog"
+    }
+  },
+  "indexPage": {
+    "description": "Firma AI, która robi to dobrze",
+    "modelsSection": {
+      "title": "Modele",
+      "description": "Naszym głównym modelem jest Flaskyi, model tekstowy, który może generować obrazy z tekstu. W przyszłości będziemy tworzyć i trenować więcej modeli, takich jak Flaskyi-Chat.",
+      "models": {
+        "flaskyi": {
+          "title": "Flaskyi",
+          "description": "Flaskyi to model tekstowy, który może generować obrazy z tekstu."
+        },
+        "flaskyiChat": {
+          "title": "Flaskyi-Chat",
+          "description": "Flaskyi-Chat to model czatu, z którym możesz rozmawiać."
+        }
+      }
+    },
+    "aboutSection": {
+      "title": "O nas",
+      "description": "Jesteśmy zespołem inżynierów AI, którzy budują i trenują modele AI. Naszym głównym modelem jest Flaskyi, model tekstowy, który może generować obrazy z tekstu. W przyszłości będziemy tworzyć i trenować więcej modeli, takich jak Flaskyi-Chat.",
+      "dates": {
+        "2023": "Założyliśmy firmę w 2023 roku.",
+        "2024": "Wydamy Flaskyi, model tekstowy, który może generować obrazy z tekstu.",
+        "2025": "Wydamy Flaskyi-Chat, model czatu, z którym możesz rozmawiać.",
+        "2026": "Będziemy tworzyć i trenować więcej modeli, takich jak Flaskyi-Chat i Flaskyi."
+      }
+    }
+  },
+  "blogPage": {
+    "title": "Blog",
+    "description": "Tutaj piszemy o wszystkich nowych aktualizacjach i wiadomościach dotyczących naszych modeli AI i naszej firmy.",
+    "alert": {
+      "note": "Uwaga",
+      "text": "Posty na blogu są dostępne tylko w",
+      "language": "angielskim"
+    }
+  },
+  "footer": {
+    "description": "Firma AI, która robi to dobrze",
+    "links": {
+      "company": {
+        "title": "Firma",
+        "items": {
+          "about": "O nas",
+          "blog": "Blog",
+          "models": "Modele"
+        }
+      },
+      "legal": {
+        "title": "Prawo",
+        "items": {
+          "privacy": "Prywatność",
+          "terms": "Warunki"
+        }
+      }
+    },
+    "rights": "Wszelkie prawa zastrzeżone."
+  },
+  "buttons": {
+    "learnMore": "Dowiedz się więcej",
+    "signUp": "Zarejestruj się",
+    "signIn": "Zaloguj się"
+  },
+  "labels": {
+    "commingSoon": "Wkrótce",
+    "available": "Dostępny"
+  },
+  "translationsMenu": {
+    "search": "Szukaj"
+  }
+}

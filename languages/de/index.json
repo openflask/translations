@@ -1,0 +1,79 @@
+{
+  "navbar": {
+    "items": {
+      "home": "Zuhause",
+      "models": "Modelle",
+      "about": "Über uns",
+      "blog": "Blog"
+    }
+  },
+  "indexPage": {
+    "description": "Das KI-Unternehmen, das es richtig macht",
+    "modelsSection": {
+      "title": "Modelle",
+      "description": "Unser Hauptmodell ist Flaskyi, ein Text-zu-Bild-Modell, das Bilder aus Text generieren kann. In der Zukunft werden wir mehr Modelle wie Flaskyi-Chat bauen und trainieren.",
+      "models": {
+        "flaskyi": {
+          "title": "Flaskyi",
+          "description": "Flaskyi ist ein Text-zu-Bild-Modell, das Bilder aus Text generieren kann."
+        },
+        "flaskyiChat": {
+          "title": "Flaskyi-Chat",
+          "description": "Flaskyi-Chat ist ein Chatbot-Modell, mit dem Sie chatten können."
+        }
+      }
+    },
+    "aboutSection": {
+      "title": "Über uns",
+      "description": "Wir sind ein Team von KI-Ingenieuren, das KI-Modelle baut und trainiert. Unser Hauptmodell ist Flaskyi, ein Text-zu-Bild-Modell, das Bilder aus Text generieren kann. In der Zukunft werden wir mehr Modelle wie Flaskyi-Chat bauen und trainieren.",
+      "dates": {
+        "2023": "Wir wurden 2023 gegründet.",
+        "2024": "Wir werden Flaskyi veröffentlichen, ein Text-zu-Bild-Modell, das Bilder aus Text generieren kann.",
+        "2025": "Wir werden Flaskyi-Chat veröffentlichen, ein Chatbot-Modell, mit dem Sie chatten können.",
+        "2026": "Wir werden mehr Modelle wie Flaskyi-Chat und Flaskyi bauen und trainieren."
+      }
+    }
+  },
+  "blogPage": {
+    "title": "Blog",
+    "description": "Hier schreiben wir über alle neuen Updates und Nachrichten bezüglich unserer KI-Modelle und unseres Unternehmens.",
+    "alert": {
+      "note": "Hinweis",
+      "text": "Blogbeiträge sind nur verfügbar in",
+      "language": "Englisch"
+    }
+  },
+  "footer": {
+    "description": "Das KI-Unternehmen, das es richtig macht",
+    "links": {
+      "company": {
+        "title": "Unternehmen",
+        "items": {
+          "about": "Über",
+          "blog": "Blog",
+          "models": "Modelle"
+        }
+      },
+      "legal": {
+        "title": "Rechtliches",
+        "items": {
+          "privacy": "Datenschutz",
+          "terms": "Bedingungen"
+        }
+      }
+    },
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "buttons": {
+    "learnMore": "Mehr erfahren",
+    "signUp": "Anmelden",
+    "signIn": "Einloggen"
+  },
+  "labels": {
+    "commingSoon": "Kommt bald",
+    "available": "Verfügbar"
+  },
+  "translationsMenu": {
+    "search": "Suche"
+  }
+}

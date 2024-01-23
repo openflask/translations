@@ -1,0 +1,79 @@
+{
+  "navbar": {
+    "items": {
+      "home": "Home",
+      "models": "Models",
+      "about": "About us",
+      "blog": "Blog"
+    }
+  },
+  "indexPage": {
+    "description": "The AI company that gets it right",
+    "modelsSection": {
+      "title": "Models",
+      "description": "Our main model is Flaskyi, a text-to-image model that can generate images from text. In the future, we will build and train more models like Flaskyi-Chat.",
+      "models": {
+        "flaskyi": {
+          "title": "Flaskyi",
+          "description": "Flaskyi is a text-to-image model that can generate images from text."
+        },
+        "flaskyiChat": {
+          "title": "Flaskyi-Chat",
+          "description": "Flaskyi-Chat is a chatbot model that you can chat with."
+        }
+      }
+    },
+    "aboutSection": {
+      "title": "About us",
+      "description": "We are a team of AI engineers that builds and trains AI models. Our main model is Flaskyi, a text-to-image model that can generate images from text. In the future, we will build and train more models like Flaskyi-Chat.",
+      "dates": {
+        "2023": "We were founded in 2023.",
+        "2024": "We will release Flaskyi, a text-to-image model that can generate images from text.",
+        "2025": "We will release Flaskyi-Chat, a chatbot model that you can chat with.",
+        "2026": "We will build and train more models like Flaskyi-Chat and Flaskyi."
+      }
+    }
+  },
+  "blogPage": {
+    "title": "Blog",
+    "description": "Here we write about all the new updates and news regarding our AI models and our company.",
+    "alert": {
+      "note": "Note",
+      "text": "Blog posts are only available in",
+      "language": "English"
+    }
+  },
+  "footer": {
+    "description": "The AI company that gets it right",
+    "links": {
+      "company": {
+        "title": "Company",
+        "items": {
+          "about": "About",
+          "blog": "Blog",
+          "models": "Models"
+        }
+      },
+      "legal": {
+        "title": "Legal",
+        "items": {
+          "privacy": "Privacy",
+          "terms": "Terms"
+        }
+      }
+    },
+    "rights": "All rights reserved."
+  },
+  "buttons": {
+    "learnMore": "Learn more",
+    "signUp": "Sign up",
+    "signIn": "Sign in"
+  },
+  "labels": {
+    "commingSoon": "Coming soon",
+    "available": "Available"
+  },
+  "translationsMenu": {
+    "search": "Search"
+  }
+}
