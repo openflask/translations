@@ -1,4 +1,5 @@
 {
+  "countryCode": "gb",
   "navbar": {
     "items": {
       "home": "Home",
@@ -8,7 +9,7 @@
     }
   },
   "indexPage": {
-    "description": "The AI company that gets it right",
+    "description": "The AI company that does it right",
     "modelsSection": {
       "title": "Models",
       "description": "Our main model is Flaskyi, a text-to-image model that can generate images from text. In the future, we will build and train more models like Flaskyi-Chat.",
