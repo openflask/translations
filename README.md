@@ -15,7 +15,7 @@ This repository had been opened to translate the website into different language
 ## 📚 Languages
 | Language | Country Code | Status |
 | -------- | ------------ | ------ |
-| English  | `en`         | ✔️      |
+| English  | `us`         | ✔️      |
 | German   | `de`         | ✔️      |
 | French   | `fr`         | ✔️      |
 | Spanish  | `es`         | ❌      |
