@@ -75,6 +75,47 @@
     "available": "Verfügbar"
   },
   "translationsMenu": {
-    "search": "Suche"
-  }
+    "search": "Suche",
+    "back": "Zurück"
+  },
+  "notices": {
+      "cookies": {
+        "title": "Cookie-Hinweis",
+        "description": "Diese Website verwendet Cookies, um sicherzustellen, dass alles korrekt funktioniert.",
+        "text": "Wir verwenden Cookies, um sicherzustellen, dass wir Ihnen die beste Erfahrung auf unserer Website bieten. Wenn Sie diese Website weiterhin nutzen, gehen wir davon aus, dass Sie damit zufrieden sind. Wir verwenden Cookies nur, um sicherzustellen, dass alles korrekt funktioniert. Wir verwenden keine Cookies, um Sie zu verfolgen oder Ihre Daten zu verkaufen.",
+        "buttons": {
+          "accept": "Ich akzeptiere",
+          "decline": "Ich lehne ab"
+        }
+      },
+      "cookiesDeclined": {
+        "title": "Cookies",
+        "description": "Sie haben Cookies nicht akzeptiert.",
+        "text": "Es tut uns leid, aber unser Service erfordert, dass Cookies akzeptiert werden, um Ihnen das beste Erlebnis auf unserer Website zu bieten. Wenn Sie die Cookies wieder aktivieren möchten, drücken Sie bitte die Schaltfläche unten. Wenn Sie die Cookies nicht akzeptieren möchten, können Sie diese Website nicht durchsuchen.",
+        "buttons": {
+          "enable": "Cookies aktivieren",
+          "takeMeSomeWhereElse": "Bring mich woanders hin!"
+        }
+      },
+      "development": {
+        "title": "Entwicklungshinweis",
+        "description": "Diese Website befindet sich derzeit in Entwicklung.",
+        "text": "Unsere Website befindet sich derzeit in Entwicklung und unsere Dienstleistungen sind noch nicht verfügbar. Wir arbeiten hart daran, Ihnen das bestmögliche Erlebnis zu bieten. In dieser Zeit werden die meisten Aktionen auf unserer Website nicht funktionieren. Haben Sie Geduld und abonnieren Sie unseren Blog, um benachrichtigt zu werden, wenn wir starten.",
+        "buttons": {
+          "accept": "Ich akzeptiere"
+        }
+      }
+    },
+    "notes": {
+          "terms": {
+            "note": "Hinweis",
+            "text": "Dieses Dokument ist nur verfügbar in",
+            "language": "Englisch"
+          },
+          "privacy": {
+            "note": "Hinweis",
+            "text": "Dieses Dokument ist nur verfügbar in",
+            "language": "Englisch"
+          }
+        }
 }

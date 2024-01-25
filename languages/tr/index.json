@@ -75,6 +75,47 @@
     "available": "Mevcut"
   },
   "translationsMenu": {
-    "search": "Ara"
-  }
+    "search": "Ara",
+    "back": "Geri"
+  },
+  "notices": {
+      "cookies": {
+        "title": "Çerez Bildirimi",
+        "description": "Bu web sitesi, her şeyin doğru çalışmasını sağlamak için çerezleri kullanır.",
+        "text": "Web sitemizde size en iyi deneyimi sunabilmemiz için çerezleri kullanıyoruz. Bu siteyi kullanmaya devam ederseniz, bunu kabul ettiğinizi varsayarız. Her şeyin doğru çalışmasını sağlamak için sadece çerezleri kullanırız. Sizi takip etmek veya verilerinizi satmak için çerezleri kullanmayız.",
+        "buttons": {
+          "accept": "Kabul Ediyorum",
+          "decline": "Reddediyorum"
+        }
+      },
+      "cookiesDeclined": {
+        "title": "Çerezler",
+        "description": "Çerezleri kabul etmediniz.",
+        "text": "Üzgünüz, ancak hizmetimiz, web sitemizde size en iyi deneyimi sunabilmek için çerezlerin kabul edilmesini gerektirir. Çerezleri yeniden etkinleştirmek isterseniz, lütfen aşağıdaki düğmeye basın. Çerezleri kabul etmek istemiyorsanız, bu web sitesinde gezinemezsiniz.",
+        "buttons": {
+          "enable": "Çerezleri Etkinleştir",
+          "takeMeSomeWhereElse": "Beni başka bir yere götür!"
+        }
+      },
+      "development": {
+        "title": "Geliştirme Bildirimi",
+        "description": "Bu web sitesi şu anda geliştirme aşamasındadır.",
+        "text": "Sitemiz şu anda geliştirme aşamasında ve hizmetlerimiz henüz mevcut değil. Size mümkün olan en iyi deneyimi sunmak için sıkı çalışıyoruz. Bu süre zarfında, sitemizdeki çoğu işlem çalışmayacaktır. Sabırlı olun ve başlattığımızda bildirim almak için blogumuza abone olun.",
+        "buttons": {
+          "accept": "Kabul Ediyorum"
+        }
+      }
+    },
+    "notes": {
+          "terms": {
+            "note": "Not",
+            "text": "Bu belge sadece",
+            "language": "İngilizce olarak mevcuttur"
+          },
+          "privacy": {
+            "note": "Not",
+            "text": "Bu belge sadece",
+            "language": "İngilizce olarak mevcuttur"
+          }
+        }
 }

@@ -75,6 +75,47 @@
     "available": "Dostępny"
   },
   "translationsMenu": {
-    "search": "Szukaj"
-  }
+    "search": "Szukaj",
+    "back": "Wróć"
+  },
+  "notices": {
+      "cookies": {
+        "title": "Komunikat o ciasteczkach",
+        "description": "Ta strona używa ciasteczek, aby wszystko działało poprawnie.",
+        "text": "Używamy ciasteczek, aby zapewnić Ci najlepsze doświadczenia na naszej stronie. Jeśli będziesz nadal korzystać z tej strony, założymy, że jesteś z niej zadowolony. Używamy ciasteczek tylko po to, aby wszystko działało poprawnie. Nie używamy ciasteczek do śledzenia Cię lub sprzedaży Twoich danych.",
+        "buttons": {
+          "accept": "Akceptuję",
+          "decline": "Odrzucam"
+        }
+      },
+      "cookiesDeclined": {
+        "title": "Ciasteczka",
+        "description": "Nie zaakceptowałeś ciasteczek.",
+        "text": "Przykro nam, ale nasza usługa wymaga akceptacji ciasteczek, aby zapewnić Ci najlepsze doświadczenia na naszej stronie. Jeśli chcesz ponownie włączyć ciasteczka, naciśnij przycisk poniżej. Jeśli nie chcesz akceptować ciasteczek, nie będziesz mógł przeglądać tej strony.",
+        "buttons": {
+          "enable": "Włącz ciasteczka",
+          "takeMeSomeWhereElse": "Zabierz mnie gdzie indziej!"
+        }
+      },
+      "development": {
+        "title": "Komunikat o rozwoju",
+        "description": "Ta strona jest obecnie w trakcie tworzenia.",
+        "text": "Nasza strona jest obecnie w trakcie tworzenia i nasze usługi nie są jeszcze dostępne. Pracujemy ciężko, aby zapewnić Ci najlepsze możliwe doświadczenia. W tym czasie większość akcji na naszej stronie nie będzie działać. Bądź cierpliwy i zasubskrybuj nasz blog, aby otrzymać powiadomienie, kiedy wystartujemy.",
+        "buttons": {
+          "accept": "Akceptuję"
+        }
+      }
+    },
+    "notes": {
+          "terms": {
+            "note": "Uwaga",
+            "text": "Ten dokument jest dostępny tylko w",
+            "language": "języku angielskim"
+          },
+          "privacy": {
+            "note": "Uwaga",
+            "text": "Ten dokument jest dostępny tylko w",
+            "language": "języku angielskim"
+          }
+        }
 }

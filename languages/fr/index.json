@@ -75,6 +75,47 @@
     "available": "Disponible"
   },
   "translationsMenu": {
-    "search": "Recherche"
-  }
+    "search": "Recherche",
+    "back": "Retour"
+  },
+  "notices": {
+      "cookies": {
+        "title": "Avis sur les cookies",
+        "description": "Ce site utilise des cookies pour assurer le bon fonctionnement de tout.",
+        "text": "Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site. Si vous continuez à utiliser ce site, nous supposerons que vous en êtes satisfait. Nous n'utilisons des cookies que pour assurer le bon fonctionnement de tout. Nous n'utilisons pas de cookies pour vous suivre ou vendre vos données.",
+        "buttons": {
+          "accept": "J'accepte",
+          "decline": "Je refuse"
+        }
+      },
+      "cookiesDeclined": {
+        "title": "Cookies",
+        "description": "Vous n'avez pas accepté les cookies.",
+        "text": "Nous sommes désolés, mais notre service nécessite l'acceptation des cookies pour vous offrir la meilleure expérience sur notre site. Si vous souhaitez réactiver les cookies, veuillez appuyer sur le bouton ci-dessous. Si vous ne souhaitez pas accepter les cookies, vous ne pourrez pas naviguer sur ce site.",
+        "buttons": {
+          "enable": "Activer les cookies",
+          "takeMeSomeWhereElse": "Emmenez-moi ailleurs !"
+        }
+      },
+      "development": {
+        "title": "Avis de développement",
+        "description": "Ce site est actuellement en développement.",
+        "text": "Notre site est actuellement en développement et nos services ne sont pas encore disponibles. Nous travaillons dur pour vous offrir la meilleure expérience possible. Pendant ce temps, la plupart des actions sur notre site ne fonctionneront pas. Soyez patient et abonnez-vous à notre blog pour être averti lorsque nous lancerons.",
+        "buttons": {
+          "accept": "J'accepte"
+        }
+      }
+    },
+    "notes": {
+          "terms": {
+            "note": "Remarque",
+            "text": "Ce document est uniquement disponible en",
+            "language": "anglais"
+          },
+          "privacy": {
+            "note": "Remarque",
+            "text": "Ce document est uniquement disponible en",
+            "language": "anglais"
+          }
+        }
 }

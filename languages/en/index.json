@@ -1,5 +1,5 @@
 {
-  "countryCode": "gb",
+  "countryCode": "us",
   "navbar": {
     "items": {
       "home": "Home",
@@ -75,6 +75,47 @@
     "available": "Available"
   },
   "translationsMenu": {
-    "search": "Search"
+    "search": "Search",
+    "back": "Back"
+  },
+  "notices": {
+    "cookies": {
+      "title": "Cookie Notice",
+      "description": "This website uses cookies to ensure everything works correctly.",
+      "text": "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it. We only use cookies to ensure that everything works correctly. We do not use cookies to track you or to sell your data.",
+      "buttons": {
+        "accept": "I Accept",
+        "decline": "I Decline"
+      }
+    },
+    "cookiesDeclined": {
+      "title": "Cookies",
+      "description": "You haven't accepted cookies.",
+      "text": "We're sorry, but our service requires cookies to be accepted to provide you the best experience on our website. If you want to re-enable the cookies, please press the button below. If you don't want to accept the cookies, you will not be able to browse this website.",
+      "buttons": {
+        "enable": "Enable cookies",
+        "takeMeSomeWhereElse": "Take me somewhere else!"
+      }
+    },
+    "development": {
+      "title": "Development Notice",
+      "description": "This website is currently under development.",
+      "text": "Our Site is currently in development and our services are not yet available. We are working hard to bring you the best experience possible. In that time, most actions on our site will not work. Be patient and subscribe to our blog to be notified when we launch.",
+      "buttons": {
+        "accept": "I Accept"
+      }
+    }
+  },
+  "notes": {
+    "terms": {
+      "note": "Note",
+      "text": "This document is only available in",
+      "language": "English"
+    },
+    "privacy": {
+      "note": "Note",
+      "text": "This document is only available in",
+      "language": "English"
+    }
   }
 }
